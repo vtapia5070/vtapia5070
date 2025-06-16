@@ -1,6 +1,6 @@
 <!-- Header section -->
 <h1 align="center">Hi, I'm Victoria 🌿</h1>
-<h3 align="center">Tech Lead • Full-Stack Engineer • Engineering Manager (open to roles)</h3>
+<h3 align="center">Tech Lead • Full-Stack Engineer • Engineering Manager</h3>
 
 <p align="center">
   <em>Building elegant, high-impact software. Passionate about people, product, and thoughtful tech.</em>
