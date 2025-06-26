@@ -13,11 +13,13 @@
 ### 👩‍💻 About Me
 
 -   🧠 8+ years of experience building and scaling full-stack systems
--   🔁 Led engineering teams across healthcare, fintech, and analytics
--   🛠️ Strong in **React**, **TypeScript**, and **frontend architecture**
--   🐍 Growing expertise in **Django**, **Python**, **PostgreSQL**, and **AWS**
+-   🚀 3 years of experience growing and leading full-stack engineering teams
+-   🔁 Industry experience across healthcare, fintech, e-commerce, and analytics
+-   🌐 Experienced working with distributed, international teams
+-   🛠️ Strong in **TypeScript**, **React**, **State Management**, **Next.js**, **frontend architecture**, **CI/CD**, **Node.js**, **Nest.js**, **Docker**
+-   🐍 Growing expertise in **Python/Django**, **PostgreSQL**, **AWS**, **Docker**, **Decentralized Apps**, and **Web3**
 -   🎯 Focused on **engineering excellence**, **people management**, and **team velocity**
--   🌱 Also passionate about **art**, **holistic healing**, and **community building**
+-   🌱 Also passionate about **art**, **music**, **holistic health**, and **community building**
 
 ---
 
